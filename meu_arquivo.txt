@@ -1,0 +1,2 @@
+Minha primeira atividade prática com Git e GitHub.
+Estou aprendendo a versionar arquivos e enviar alterações para o GitHub.
